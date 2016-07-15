@@ -8,6 +8,7 @@ var signature = function () {
         currY = 0,
         dot_flag = false;
 
+
     var x = "black",
         y = 2;
 
